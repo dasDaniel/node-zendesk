@@ -102,7 +102,7 @@ var client = zendesk.createClient({
   token:     'oauth_token',
   remoteUri: 'https://remote.zendesk.com/api/v2',
   disableGlobalState: true,
-  debug: true // if you wan't to debug in library only mode, you'll have to include this
+  debug: true // if you want to debug in library only mode, you'll have to include this
 });
 ```
 
